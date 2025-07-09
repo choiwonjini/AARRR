@@ -1,2 +1,2 @@
 # AARRR
-AARRR Analysis using GA4
+AARRR Analysis using GA
